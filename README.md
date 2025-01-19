@@ -123,6 +123,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgments
 Special thanks to [Sohila Osama](https://github.com/sohila-osama) for their contributions to the practical assignments and pipeline development.
 
---- 
-
-This `README.md` provides an organized and comprehensive guide to your project, making it easier for others to understand and utilize your work.
